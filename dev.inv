@@ -1,0 +1,2 @@
+[webserver]
+ansible_user=ec2-user 
