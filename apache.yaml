@@ -44,7 +44,7 @@
 #     register: new_incident
 
 ---
-- hosts: localhost
+- hosts: all
   tasks:
   - name: Print Hello World
     debug: msg="Hello World"
